@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald:400,700');
+
+body
+{
+	margin: 0px;
+background-image: url(/dbms/images/sup.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+#con
+{
+	text-align: center;
+	color: rgba(52,73,94,.7);
+	background-color: #E4B273;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	margin-top: 30px;
+}
+.container
+{
+	width: 500px;
+	height:400px;
+	text-align: center;
+	background-color: rgba(52,73,94,.7);
+	
+	margin: 0 auto;
+	margin-top: 50px;
+}
+input[type="text"],input[type="password"]
+{
+	width:300px;
+	height: 40px;
+	font-size: 18px;
+	margin-top: 35px;
+	padding-left: 30px;
+}
+input[type="textbox"]
+{
+	width:300px;
+	height: 110px;
+	font-size: 18px;
+	margin-top: 25px;
+	padding-left: 30px;
+}
+input[type="submit"]
+{
+	font-size:18px;
+}
+.btn
+{
+	height:40PX;
+	width: 336px;
+	margin-top: 25px;
+	color: #fff;
+	background-color: #2ecc71;
+	border-radius: 4px;
+	cursor: pointer;
+}
+a
+{
+	margin-top: 20px;
+	color:#fff;
+}
+img
+{
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+}

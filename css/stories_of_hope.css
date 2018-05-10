@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Philosopher');
+
+
+
+
+
+
+h3
+{
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+}
+header,footer{
+	padding: 10px;
+    color: white;
+    background-color: #035851;
+    clear: left;
+    text-align: center;
+	}
+#stories
+{
+
+	text-align: center;
+	margin-left: 70px;
+	background-color: red;
+
+}
+#homebar
+{
+
+	text-align: center;
+	margin-left: 70px;
+
+
+}
+a
+{
+	font-family: 'Philosopher', sans-serif;
+	
+}
+#homebar:hover,#stories:hover
+{
+	background-color: #0b5b75;
+}
+#foot
+{
+	text-align: right;
+}
+#s
+{
+	margin-top: 20px;
+}
+hr
+{
+	border-color: black;
+}
+.aboutstories
+{
+	margin-right: 50px;
+	text-align: justify;
+	margin-left: 50px;
+}
+b
+{
+	color:#009749;
+}
+.data
+{
+	width:100%;
+	float: left;
+}
+/*.imag
+{
+	float: right;
+	margin-top: -121px;
+	margin-right: -50px;
+	margin-left: 2px;
+}*/
+/*#dontscroll
+{
+	position: fixed;
+	overflow: hidden;
+	width: 100%;
+	margin-top: -116px;
+}
+#main
+{
+	margin-top: 120px;
+}*/
+footer{
+	padding: 10px;
+    color: white;
+    background-color: #035851;
+    clear: left;
+    text-align: center;
+
+}
+#foot
+{
+	text-align: right;
+}
+h1
+{
+text-align: center;
+font-family: 'Philosopher', sans-serif;
+font-size: 30px;
+
+}

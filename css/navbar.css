@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Philosopher');
+
+
+
+
+
+
+h3
+{
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+}
+header
+{
+	
+	padding: 10px;
+    color: white;
+    background-color: #035851;
+    clear: left;
+    text-align: left;
+    /*position: fixed;*/
+    /*width: 100%;*/
+	
+}
+
+
+
+
+
+
+footer{
+	padding: 10px;
+    color: white;
+    background-color: #035851;
+    clear: left;
+    text-align: center;
+	}
+
+p
+	{
+		margin-left: 10px;
+	}
+	
+	.skin
+{
+	float: left;
+	
+	margin-left: 30px;
+	width:400px;
+	font-family: 'Philosopher', sans-serif;
+
+}
+.brain
+{
+	float: left;
+	
+	margin-left: 30px;
+	width:400px;
+	font-family: 'Philosopher', sans-serif;
+
+}
+.organ
+{
+	float: left;
+	margin-left: 30px;
+	width:400px;
+	font-family: 'Philosopher', sans-serif;
+
+}
+	
+h1
+{
+text-align: left;
+font-family: 'Philosopher', sans-serif;
+font-size: 30px;
+
+}
+#homebar
+{
+
+	text-align: center;
+	margin-left: 70px;
+	
+
+
+}
+a
+{
+	font-family: 'Philosopher', sans-serif;
+	
+}
+#homebar:hover
+{
+	background-color: #0b5b75;
+}
+#foot
+{
+	text-align: right;
+}
+
+/*#dontscroll
+{
+	position: fixed;
+	overflow: hidden;
+	width: 100%;
+	margin-top: -116px;
+}
+#sectionid
+{
+	margin-top: 116px;
+}*/

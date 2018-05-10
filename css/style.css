@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald:400,700');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Nova+Flat');
+
+
+body {
+	margin: 0;
+}
+
+
+
+.partner{
+	background-color: white;
+	width: 100%;
+	height: 290px;
+
+
+
+}
+
+
+.partner h1{
+	background-color: #035851;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	/*font-weight: 400;*/
+	padding: 5px 0px 5px 10px ;
+	text-align: center;
+}
+.part
+{
+	margin-top: -200px;
+}
+#p1{
+
+	background-color: white;
+	margin-left: 25px;
+	padding: 2px 5px 5px 10px;
+	width: 400px;
+	/*float: left;*/
+	display: inline-block;
+}
+
+#p1 h3{
+	font-family: 'Nova Flat', cursive;
+	color: #035851;
+}
+
+#p1 p{
+	font-family: 'Crimson Text', serif;
+	font-size: 16;
+}
+
+#p2{
+	background-color: white;
+	margin-left: 25px;
+	padding: 2px 5px 5px 10px;
+	width: 400px;
+	/*float: left;*/
+	display: inline-block;
+}
+
+#p2 h3{
+	font-family: 'Nova Flat', cursive;
+	color: #035851;
+}
+
+#p2 p{
+	font-family: 'Crimson Text', serif;
+	font-size: 16;
+}
+
+#p3{
+	background-color: white;
+	margin-left: 25px;
+	padding: 2px 5px 5px 10px;
+	width: 400px;
+	display: inline-block;
+}
+
+
+#p3 h3{
+	font-family: 'Nova Flat', cursive;
+	color: #035851;
+}
+
+#p3 p{
+	font-family: 'Crimson Text', serif;
+	font-size: 16;
+}
+
+.divider2{
+	/*margin-top: 210px;*/
+	background-color: #035851;
+	height: 5px;
+}
+.partner
+{
+	margin-top: -25px;
+}
